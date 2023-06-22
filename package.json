@@ -42,6 +42,7 @@
     "fs-extra": "^10.0.0",
     "g-i-s": "^2.1.6",
     "google-it": "^1.6.2",
+    "@bochilteam/scraper": "^4.2.3",
     "got": "^11.8.3",
     "human-readable": "^0.2.1",
     "javascript-obfuscator": "^4.0.0",
