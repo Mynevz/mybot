@@ -22,7 +22,7 @@
   "author": "DGXeon",
   "license": "ISC",
   "dependencies": {
-"@adiwajshing/baileys": "github:what-zit-tooyaa/Baileys",
+"@adiwajshing/baileys": "@npm:baileys@6.3.0",
     "@saipulanuar/jadianime-ts": "^2.0.0",
     "@adiwajshing/keyed-db": "^0.2.4",
     "awesome-phonenumber": "^2.64.0",
